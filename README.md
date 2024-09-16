@@ -1,8 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="center">
-    <img src="https://git.io/typing-svg>font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Codin+Waffle!;I'm+an+aspiring+web+developer;Nice+to+meet+you" />
-</h1>
+<div align="center">
+	<a href="https://git.io/typing-svg">
+		<img width="500px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=07F774&center=true&vCenter=true&width=500&lines=Hi+there!+👋%2C+I'm+Codin+Waffle.;I'm+an+aspiring+web+developer;Nice+to+meet+you" alt="Typing SVG" />
+	</a>
+</div>
 
 <h3 align="center">A Bachelor of Science in Information Technology Student from philippines 🇵🇭</h3>
 
@@ -28,7 +30,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-                 <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,r" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,cs,lua,java,nextjs,mysql," /><br>
 </div>
 
