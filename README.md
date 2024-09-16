@@ -11,7 +11,7 @@
  
  🌱 I’m currently learning **Assembly, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/CodinWaffle/CodinWaffle/issues)**
+💬 Ask me about **Node.js, React... or anything [here](https://github.com/CodinWaffle/CodinWaffle/issues)**
 
 
  </div>
