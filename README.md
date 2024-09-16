@@ -2,8 +2,7 @@
 
 <div align="center">
 	<a href="https://git.io/typing-svg">
-		<img width="500px" src="https://readme-typing-svg.demolab.com?			 
-   			font=Fira+Code&pause=500&color=07F774&center=true&vCenter=true&width=500&lines=Hi+there!+👋%2C+I'm+Codin+Waffle.;I'm+an+aspiring+web+developer;Nice+to+meet+you" alt="Typing SVG" />
+		<img width="500px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=07F774&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Tiaan.;I'm+an+aspiring+web+developer;Nice+to+meet+you" alt="Typing SVG" />
 	</a>
 </div>
 
@@ -39,11 +38,12 @@
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center> 
+<div align=center>
+	//![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=CodinWaffle&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=CodinWaffle&show_icons=true&theme=radical" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=CodinWaffle&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats CodinWaffle.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodinWaffle&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br/><br/>
 <hr/>
