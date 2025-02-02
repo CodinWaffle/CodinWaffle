@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Java, Supabase, Android Studio**
+ 🌱 I’m currently learning **Java, Supabase, Android Studio, PHP**
 
 💬 Ask me about **Node.js, React... or anything [here](https://github.com/CodinWaffle/CodinWaffle/issues)**
 
