@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Java, Supabase, Android Studio, PHP**
+ 🌱 I’m currently learning **Java, Flutter, PHP**
 
 💬 Ask me about **Node.js, React... or anything [here](https://github.com/CodinWaffle/CodinWaffle/issues)**
 
@@ -27,8 +27,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git"/>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,lua,nextjs,mysql,flask"/>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,javascript,github,git"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,lua,nextjs,mysql,flask"/>
 </div>
 
 <br/>
