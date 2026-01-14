@@ -1,31 +1,51 @@
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=07F774&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Codin+Waffle!;I'm+an+aspiring+web+developer;Nice+to+meet+you;" />
-</h1>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-<h3 align="center">A Bachelor of Science in Information Technology Student from philippines 🇵🇭</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose%20Martin%20R.%20Imperial-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-martin-r-imperial-53a2b429a/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Jose%20Martin%20R.%20Imperial%20--%20I.T%20Student-blueviolet?style=flat-square&logo=react&logoColor=white&link=https://imperialportfolio.netlify.app/)](https://imperialportfolio.netlify.app/)
+[![Gmail Badge](https://img.shields.io/badge/-devforhirejosemartin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devforhirejosemartin@gmail.com)](mailto:devforhirejosemartin@gmail.com)
 
-<br/>
+I am Jose Martin R. Imperial 😃. I am from Philippines, and currently Studying in Laguna State Polytechnic University, 🏫. I love to explore and learn about new things.
 
-<div align="center">
+## ⚡ Technologies
+Talk to me about:
+- Front-end development using **HTML, Javascript, CSS, Bootstrap**.
+- Backend development using **Flask, Django, Supabase**.
+- Making for **Relational Database Management Systems**.
+- Robust full-stack system design implementation.
+- Desktop application development using **Flutter** (Still learning).
+- Mobile application development using **Flutter and Kotlin** (Still learning).
+- Solving Data structure and algorithm questions in **Python** (Still learning).
+## Programming Languages
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+
+ ## Technologies I Use
+<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg" height="40"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg" width="30"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg" height="40"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="33"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg" width="30"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg" width="33"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg" width="33"/>
+
+## 👨‍💻 Who am I?
+
+```python
+class WhoAmI:
+    user = 'Jose Martin R. Imperial'
+    role = 'I.T. Student'
+    current_work = 'Developing full-stack web applications and exploring Cloud technologies'
+    
+    hobbies = [
+        'Learning New Things Every single day',
+        'Playing Games',
+        'Watching Anime',
+        'Exploring Backend Architectures',
+        'Being up all night chasing that ONE BUG...'
+    ]
+
+    def get_location():
+        return Philippines()
+
+    def ambitions():
+        MasterCloudTechnologies()
+        BuildImpactfulSoftware()
+        BecomeAFullStackExpert()
+        # Assume 10 more awesome ambitions here ;)
  
- 🌱 I’m currently learning **supabase, Flutter**
-
-💬 Ask me about **Node.js, React... or anything [here](https://github.com/CodinWaffle/CodinWaffle/issues)**
-
-
- </div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,javascript,git"/>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,lua,nextjs,mysql,flask,npm,ts"/> 
-    <img src="https://skills.syvixor.com/api/icons?i=n8n"/>
-</div>
-<br/><br/>
-<hr/>
-<br/>
-
