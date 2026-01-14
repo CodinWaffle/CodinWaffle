@@ -47,5 +47,4 @@ class WhoAmI:
         MasterCloudTechnologies()
         BuildImpactfulSoftware()
         BecomeAFullStackExpert()
-        # Assume 10 more awesome ambitions here ;)
  
