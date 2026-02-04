@@ -1,6 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://private-user-images.githubusercontent.com/74038190/240818501-b206f421-052b-4444-bcdb-48c41c85c18b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg0OTA5NjcsIm5iZiI6MTc2ODQ5MDY2NywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTg1MDEtYjIwNmY0MjEtMDUyYi00NDQ0LWJjZGItNDhjNDFjODVjMThiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTE1VDE1MjQyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJmMTlkYzY1YzAyYjYzNzEzMTMyMGYxOTI0YWY0NTg1YzkzZTM1OTMzYTdmMDBiZWVjYjFlOTNjMDQwNTU2ODAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DRTrd4zzTj5qW16jRX9IWQYa-6Tu0iVIe7f01MxxYmg' width='200"'>
+<img align='right' src='https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif' width='200"'>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose%20Martin%20R.%20Imperial-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-martin-r-imperial-53a2b429a/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Jose%20Martin%20R.%20Imperial%20--%20I.T%20Student-blueviolet?style=flat-square&logo=react&logoColor=white&link=https://imperialportfolio.netlify.app/)](https://imperialportfolio.netlify.app/)
