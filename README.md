@@ -8,7 +8,7 @@
 
 I am Jose Martin R. Imperial 😃. I am from Philippines, and currently Studying in Laguna State Polytechnic University, 🏫. I love to explore and learn about new things.
 
-## ⚡ Technologies
+##  Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**.
 - Backend development using **Flask, Django, Supabase**.
@@ -24,7 +24,7 @@ Talk to me about:
  ## Technologies I Use
 <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg" height="40"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg" width="30"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg" height="40"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="33"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg" width="30"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg" width="33"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg" width="33"/>
 
-## 👨‍💻 Who am I?
+## Who am I?
 
 ```python
 class WhoAmI:
