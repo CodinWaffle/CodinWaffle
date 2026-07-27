@@ -30,7 +30,8 @@ Talk to me about:
 class WhoAmI:
     user = 'Jose Martin R. Imperial'
     role = 'I.T. Student'
-    current_work = 'Developing full-stack web applications and exploring Cloud technologies'
+    current_work = 'Developing full-stack web applications'
+    current_study = 'Learning more about Cybersecurity'
     
     hobbies = [
         'Learning New Things Every single day',
@@ -44,7 +45,8 @@ class WhoAmI:
         return Philippines()
 
     def ambitions():
-        MasterCloudTechnologies()
+        BecomeTheCybersecurityProfessional()
+        BecomeTHeCybersecurityAnalyst()
         BuildImpactfulSoftware()
         BecomeAFullStackExpert()
  
